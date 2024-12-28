@@ -1,0 +1,2 @@
+../Src/keypad.c:4:10:keypad_init	1
+../Src/keypad.c:21:10:keypad_read_key	11

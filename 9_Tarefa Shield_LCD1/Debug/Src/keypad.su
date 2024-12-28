@@ -1,0 +1,2 @@
+../Src/keypad.c:5:9:keypad_init	4	static
+../Src/keypad.c:24:10:keypad_read_key	16	static

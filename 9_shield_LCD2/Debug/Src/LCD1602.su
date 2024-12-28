@@ -1,0 +1,9 @@
+../Src/LCD1602.c:5:6:GPIO_init	4	static
+../Src/LCD1602.c:32:6:send_to_lcd	16	static
+../Src/LCD1602.c:74:6:lcd_send_cmd	24	static
+../Src/LCD1602.c:87:6:lcd_init	8	static
+../Src/LCD1602.c:112:6:lcd_send_data	24	static
+../Src/LCD1602.c:125:6:lcd_clear	8	static
+../Src/LCD1602.c:132:6:lcd_put_cur	16	static
+../Src/LCD1602.c:147:6:lcd_send_string	16	static
+../Src/LCD1602.c:152:6:display_serial_char_on_lcd	16	static

@@ -1,0 +1,8 @@
+../Core/Src/main.c:43:5:main	1
+../Core/Src/main.c:86:6:vBlueLedControllerTask	1
+../Core/Src/main.c:96:6:vSerialControllerTask	1
+../Core/Src/main.c:107:6:vCounter1Task	1
+../Core/Src/main.c:117:6:vCounter2Task	1
+../Core/Src/main.c:131:6:SystemClock_Config	3
+../Core/Src/main.c:174:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:184:6:Error_Handler	1

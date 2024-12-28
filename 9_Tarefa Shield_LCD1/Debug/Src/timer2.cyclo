@@ -1,0 +1,4 @@
+../Src/timer2.c:8:6:tim2_init	1
+../Src/timer2.c:27:6:delay	3
+../Src/timer2.c:42:6:delay_ms	2
+../Src/timer2.c:49:6:delayLCD	2

@@ -1,0 +1,4 @@
+C:/Users/alunoi4/STM32CubeIDE/workspace_1.15.1/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/adc.c:15:6:pa1_adc_interrupt_init	8	static
+../Src/adc.c:45:6:start_convertion	4	static
+../Src/adc.c:53:10:adc_read	4	static

@@ -1,0 +1,4 @@
+../Src/timer2.c:8:6:tim2_init	4	static
+../Src/timer2.c:27:6:delay	24	static
+../Src/timer2.c:42:6:delay_ms	24	static
+../Src/timer2.c:49:6:delayLCD	24	static

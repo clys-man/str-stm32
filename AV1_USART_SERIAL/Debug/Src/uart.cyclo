@@ -1,0 +1,7 @@
+C:/Users/alunoi4/STM32CubeIDE/workspace_1.15.1/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/uart.c:28:5:__io_putchar	1
+../Src/uart.c:34:6:uart1_rxtx_init	1
+../Src/uart.c:78:6:uart1_read	2
+../Src/uart.c:86:6:uart1_write	2
+../Src/uart.c:94:13:uart_set_baudrate	1
+../Src/uart.c:99:17:compute_uart_bd	1
